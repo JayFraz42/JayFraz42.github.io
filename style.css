@@ -55,6 +55,7 @@ main {
 
 /* portfolio styles */
 #interests {
+    font: forte;
     border: 4px rgb(31, 148, 33) ridge;
     padding: 8px;
 }
