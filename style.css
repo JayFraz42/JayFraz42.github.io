@@ -2,8 +2,7 @@ body {
     background: rgb(70, 63, 17);
     color: rgb(25, 57, 198);
     padding: 10px;
-    font-family: arial;
-}
+    font: Forte;}
 #all-contents {
   max-width: 800px;
     margin: auto;
@@ -18,6 +17,7 @@ nav {
     padding: 10px;
 }
 h1 {
+    font: forte;
     display: flex;
     align-items: center;
     color: rgb(16, 19, 210);
@@ -55,7 +55,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    font: forte;
+   
     border: 4px rgb(31, 148, 33) ridge;
     padding: 8px;
 }
